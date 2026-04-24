@@ -4,6 +4,11 @@
 # Assessment tool
 
 ---
+### v1.0.13
+> Updated: 24.04.2026
+1. Lock in-use frameworks
+
+---
 ### v1.0.12
 > Updated: 17.04.2026
 1. Code refactoring and cleanup
